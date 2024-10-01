@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Site.Title }}</title>
     <link rel="stylesheet" href="{{ "css/risotto.css" | relURL }}">
-	<link rel="stylesheet" href="{{ "css/palettes/base16-dark.css" | relURL }}">
+	<link rel="stylesheet" href="{{ "css/palettes/dracula.css" | relURL }}">
     <!-- Add any other CSS files or external libraries -->
 </head>
 <body>
@@ -22,15 +22,14 @@
     </header>
 
     <main>
-        <h2>Welcome to My Site</h2>
-        <p>This is a simple homepage created with Hugo.</p>
+        <h2>Welcome</h2>
+        <p>My name is Andrew and I learn things.</p>
         
-        <h3>Latest Posts</h3>
+        <h3>Pages</h3>
         <ul>
             {{ range .Pages }}
                 <li>
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    <span>({{ .Date.Format "2006-01-02" }})</span>
                 </li>
             {{ end }}
         </ul>
