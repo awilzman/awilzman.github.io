@@ -1,4 +1,3 @@
 baseURL = "https://<username>.github.io/"
 languageCode = "en-us"
 title = "My Hugo Site"
-theme = "" 
