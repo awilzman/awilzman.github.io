@@ -9,15 +9,28 @@
 </head>
 <body>
     <header>
-        <h1>Please contact me if you want.</h1>
+        <h1>{{ .Site.Title }}</h1>
+        <p>{{ .Site.Params.description }}</p>
+        <nav>
+            <ul>
+                <li><a href="{{ "/" | relURL }}">Home</a></li>
+                <li><a href="{{ "pages/about.html" | relURL }}">About</a></li>
+                <li><a href="{{ "pages/contact.html" | relURL }}">Contact</a></li>
+            </ul>
+        </nav>
     </header>
 
     <main>
-        {{ .Content }}
+        <h2>Welcome</h2>
+        <p>Please contact me, but only if you really need to.</p>
+        
+        <h3>About Me</h3>
+        <span class="base0A">Yellow text</span>
     </main>
 
     <footer>
         <p>&copy; {{ .Site.Params.year }} {{ .Site.Title }}. All rights reserved.</p>
     </footer>
+
 </body>
 </html>
