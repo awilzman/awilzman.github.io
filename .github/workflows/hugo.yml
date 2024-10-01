@@ -19,7 +19,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.41.0  # Use the version compatible with your setup
+      HUGO_VERSION: 0.128.0  # Use the version compatible with your setup
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
