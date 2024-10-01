@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}">
+    <!-- Add any other CSS files or external libraries -->
+</head>
+<body>
+    <header>
+        <h1>{{ .Site.Title }}</h1>
+        <p>{{ .Site.Params.description }}</p>
+        <nav>
+            <ul>
+                <li><a href="{{ "/" | relURL }}">Home</a></li>
+                <li><a href="{{ "/about/" | relURL }}">About</a></li>
+                <li><a href="{{ "/contact/" | relURL }}">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Welcome to My Site</h2>
+        <p>This is a simple homepage created with Hugo.</p>
+        
+        <h3>Latest Posts</h3>
+        <ul>
+            {{ range .Pages }}
+                <li>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <span>({{ .Date.Format "2006-01-02" }})</span>
+                </li>
+            {{ end }}
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; {{ .Site.Params.year }} {{ .Site.Title }}. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
