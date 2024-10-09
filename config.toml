@@ -1,8 +1,8 @@
 baseURL = "https://awilzman.github.io/"
 theme = "risotto"
-title = "risotto demo"
+title = "Andrew"
 author = "Andrew"
-copyright = ""
+copyright = "(c) Myself, 2024"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"

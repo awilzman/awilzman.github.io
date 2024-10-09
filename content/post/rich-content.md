@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Rich Content"
-date = "2019-03-10"
+date = "10-08-2024"
 description = "A brief description of Hugo Shortcodes"
 tags = [
     "shortcodes",
@@ -9,7 +9,13 @@ tags = [
 ]
 +++
 
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
+This should be LaTeX
+\[
+\begin{aligned}
+KL(\hat{y} || y) &= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\
+JS(\hat{y} || y) &= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2}))
+\end{aligned}
+\]
 <!--more-->
 ---
 
