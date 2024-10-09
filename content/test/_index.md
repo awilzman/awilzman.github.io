@@ -2,6 +2,6 @@
 aliases = ["posts", "articles", "blog", "showcase", "docs"]
 title = "Posts"
 author = "Andrew Wilzman"
-description = "Blog Shmog"
+description = "test"
 tags = ["index"]
 +++

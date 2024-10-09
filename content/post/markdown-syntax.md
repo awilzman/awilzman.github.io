@@ -1,18 +1,17 @@
 +++
-author = "Hugo Authors"
+author = "Andrew"
 title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+date = "2024-10-08"
+description = "first post"
 tags = [
     "markdown",
-    "css",
-    "html",
+    "test",
+    "first",
 ]
 categories = [
     "themes",
     "syntax",
 ]
-series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 toc = true
 +++
