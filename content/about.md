@@ -1,9 +1,9 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Don't you already know me?"
 date = "10-08-2024"
 aliases = ["about-me", "contact"]
-author = "Hugo Authors"
+author = "Andrew Wilzman"
 +++
 
 I am a PhD student.

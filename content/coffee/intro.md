@@ -1,6 +1,6 @@
 +++
 author = "Andrew"
-title = "something about me"
+title = "Coffee Intro"
 date = "2024-10-08"
 description = "first post"
 tags = [
