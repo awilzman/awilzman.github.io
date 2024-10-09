@@ -19,7 +19,7 @@ toc = true
 This will be my first post
 <!--more-->
 
-#Hello
+# Hello
 
 Welcome to my page. I am glad you're here.
 
@@ -31,5 +31,6 @@ I would not like to know why you are here, but you should ask yourself this ques
 
 I did not want to leave the first subheading to be all alone.
 
-#Enjoy Life
+# Enjoy Life
+
 This is the only way.
