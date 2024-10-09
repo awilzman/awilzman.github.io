@@ -16,6 +16,8 @@ aliases = ["migrate-from-jekyl"]
 toc = true
 +++
 
-this could be a post about coffee
-<!--more-->
+this could be a post about coffee.
+
+I like coffee.
+
 hello.
