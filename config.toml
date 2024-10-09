@@ -14,6 +14,7 @@ sectionPagesMenu = "main"
 
 [params]
 noindex = false
+math = true
 
 [params.theme]
 palette = "base16-dark"
@@ -65,7 +66,13 @@ series = "series"
 unsafe = true
 
 [markup]
-
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
   # Table of contents
   # Add toc = true to content front matter to enable
   [markup.tableOfContents]
