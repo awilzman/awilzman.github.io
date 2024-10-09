@@ -1,6 +1,6 @@
 +++
 author = "Andrew"
-title = "Markdown Syntax Guide"
+title = "something about me"
 date = "2024-10-08"
 description = "first post"
 tags = [
@@ -16,4 +16,6 @@ aliases = ["migrate-from-jekyl"]
 toc = true
 +++
 
-please do some things
+this could be a post about coffee
+<!--more-->
+hello.
