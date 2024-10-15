@@ -18,3 +18,5 @@ Wilzman AR, Tenforde AS, Troy KL, Hunt K, Fogel N, Roche MD, Kraus E, Trikha R, 
 Medical and Biomechanical Risk Factors for Incident Bone Stress Injury in Collegiate Runners: Can Plantar Pressure Predict Injury? 
 Orthopaedic Journal of Sports Medicine. 2022 Jun 15;10(6):23259671221104793. 
 doi: 10.1177/23259671221104793.
+
+[Can Plantar Pressure Predict Injury?](https://pubmed.ncbi.nlm.nih.gov/35734769/)

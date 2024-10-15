@@ -1,7 +1,7 @@
 +++
 title = "About"
-description = "Don't you already know me?"
-date = "10-08-2024"
+description = "Do you already know me?"
+date = "2024-10-15"
 aliases = ["about-me", "contact"]
 author = "Andrew Wilzman"
 +++

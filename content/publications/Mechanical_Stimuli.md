@@ -18,3 +18,5 @@ toc = true
 Mancuso ME, Wilzman AR, Murdock KE, Troy KL. Effect of external and mechanical stimuli on human bone: a narrative review. 
 Progress in Biomedical Engineering. 2022. Jan;4(1):012006. 
 doi: 10.1088/2516-1091/ac41bc
+
+[Effect of external and mechanical stimuli on human bone: a narrative review](https://pubmed.ncbi.nlm.nih.gov/36310606/)
