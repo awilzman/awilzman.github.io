@@ -1,12 +1,10 @@
 +++
-author = "Andrew"
-title = "Coffee Intro"
-date = "2024-10-08"
-description = "first post"
+author = "Andrew R. Wilzman"
+title = "biosketch"
+date = "2024-10-15"
+description = "biosketch"
 tags = [
-    "something",
-    "test",
-    "first",
+    "biosketch",
 ]
 categories = [
     "themes",
@@ -16,8 +14,14 @@ aliases = ["migrate-from-jekyl"]
 toc = true
 +++
 
-this could be a post about coffee.
+# Education
 
-I like coffee.
+school stuff
 
-hello.
+# Experience
+
+work stuff
+
+# Skills
+
+list of notable skills

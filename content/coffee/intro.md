@@ -4,7 +4,6 @@ title = "Coffee Intro"
 date = "2024-10-08"
 description = "first post"
 tags = [
-    "something",
     "test",
     "first",
 ]
@@ -16,7 +15,7 @@ aliases = ["migrate-from-jekyl"]
 toc = true
 +++
 
-this could be a post about coffee.
+this could be a post about <mark>coffee</mark>.
 
 I like coffee.
 

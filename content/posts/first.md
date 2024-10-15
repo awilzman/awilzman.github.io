@@ -12,8 +12,6 @@ categories = [
     "themes",
     "syntax",
 ]
-aliases = ["migrate-from-jekyl"]
-toc = true
 +++
 
 This will be my first post
