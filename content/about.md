@@ -16,4 +16,7 @@ I am mastering computational techniques to develop cutting-edge models to predic
 
 # What have I done so far?
 
-Maybe I'll just link this to a CV
+You can check out my [biosketch](https://awilzman.github.io/publications/intro/).
+
+Or just my first-authored publications:
+1. [Can Plantar Pressure Predict Injury?](https://awilzman.github.io/publications/plantar_pressure/).
