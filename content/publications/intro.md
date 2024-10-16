@@ -1,6 +1,6 @@
 +++
 author = "Andrew R. Wilzman"
-title = "biosketch"
+title = "_biosketch"
 date = "2024-10-15"
 description = "biosketch"
 tags = [
@@ -19,7 +19,7 @@ toc = true
 * Mercer University 2013 - 2018
 	* BSE Engineering, Biomedical Specialty. Minors in Mathematics, Biology, and Chemistry.
 	* MSE Biomedical Engineering
-	
+
 * Worcester Polytechnic Institute 2020-2025
 	* PhD Biomedical Engineering, expected in May 2025
 
