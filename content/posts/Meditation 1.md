@@ -1,0 +1,29 @@
++++
+author = "Andrew"
+title = "Meditation 1"
+date = "2024-10-22"
+description = "first post"
+tags = [
+    "markdown",
+    "test",
+    "first",
+]
++++
+
+Grounded
+<!--more-->
+
+Close your mouth.
+Open your lungs.
+Breathe in,
+basement entrance.
+
+Release clearly,
+but quietly,
+and count the number
+of interesting things
+that you see.
+
+Nothing can hurt you;
+not pain, nor grief,
+because you live in your own world.

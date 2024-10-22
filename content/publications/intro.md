@@ -20,6 +20,7 @@ toc = true
 	* BSE Engineering, Biomedical Specialty. Minors in Mathematics, Biology, and Chemistry.
 	* MSE Biomedical Engineering
 
+
 * Worcester Polytechnic Institute 2020-2025
 	* PhD Biomedical Engineering, expected in May 2025
 

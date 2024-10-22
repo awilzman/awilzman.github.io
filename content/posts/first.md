@@ -32,3 +32,7 @@ I did not want to leave the first subheading to be all alone.
 # Enjoy Life
 
 This is the only way.
+
+
+This blog will be the accumulation of sparse and unfiltered thoughts.
+Please be aware that as a growing and changing human, I may have technically conflicting opinions over time.

@@ -7,8 +7,7 @@ tags = [
     "helpful",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "coffee",
 ]
 aliases = ["migrate-from-jekyl"]
 toc = true
