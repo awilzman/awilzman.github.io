@@ -2,7 +2,7 @@
 author = "Andrew"
 title = "Meditation 1"
 date = "2024-10-22"
-description = "first post"
+description = "first meditation"
 tags = [
     "meditate",
     "first",
