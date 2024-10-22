@@ -13,19 +13,19 @@ Grounded
 <!--more-->
 
 
->Close your mouth.
->Open your lungs.
->Breathe in,
->basement entrance.
+>Close your mouth.<br>
+>Open your lungs.<br>
+>Breathe in,<br>
+>basement entrance.<br>
 
 
->Release clearly,
->but quietly,
->and count the number
->of interesting things
+>Release clearly,<br>
+>but quietly,<br>
+>and count the number<br>
+>of interesting things<br>
 >that you see.
 
 
->Nothing can hurt you,
->not pain, nor grief;
+>Nothing can hurt you,<br>
+>not pain, nor grief;<br>
 >you live in your own world.
