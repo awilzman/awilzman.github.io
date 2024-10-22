@@ -22,7 +22,7 @@ palette = "base16-dark"
 # Sidebar: about/bio
 [params.about]
 title = "Change frequently."
-description = "I'm trying things out"
+description = "My name is Andrew and I really hate being criticized. I'm also a bit masochistic, so I like to submit journal articles."
 # unicode/emoji logo:
 #logo = "🍚"
 # or use an image:
