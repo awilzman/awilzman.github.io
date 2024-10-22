@@ -35,8 +35,8 @@ that you see.
 
 
 
-Nothing can hurt you;
+Nothing can hurt you,
 
-not pain, nor grief,
+not pain, nor grief;
 
-because you live in your own world.
+you live in your own world.
