@@ -23,10 +23,10 @@ terrible the coffee is probably terrible. Try some fresh roasted stuff.<br>
 But, if you enjoy it as a mixed drink that's cool too.
 
 The fact of the matter is, caffeine is not dangerous to humans, except for those who 
-are particularly sensitive to it, or are pregnant or nursing.<cite>Nawrot P. et al.[^1]</cite>
+are particularly sensitive to it, or are pregnant or nursing.<cite>(Nawrot P. et al.)[^1]</cite>
 	
 Andrew Smith published a clear and concise breakdown of how caffeine effects human behavior.
-<cite>Smith A.[^2]</cite>
+<cite>(Smith A.)[^2]</cite>
 Paraphrased these points are:
 
 1. Caffeine will increase alertness and reduce fatigue in most humans.
@@ -40,13 +40,13 @@ you will probably optimize your caffeine intake on your own.
 
 If you want to know more about how caffeine could change you as a person,
 or if you're worried about withdrawals, you can also check out a more in-depth
-paper on long-term caffeine use.<cite>Dews P.B. et al.[^3]</cite>
+paper on long-term caffeine use.<cite>(Dews P.B. et al.)[^3]</cite>
 
 It is good to note that in most people, caffeine has a half-life of around 
 six hours, which means 12 hours after ingestion, a quarter of the caffeine 
 will remain in your system. If this amount is not negligible by the time 
 you try to go to sleep, it may increase your sleep onset latency and reduce
-your overall sleep time.<cite>Gardiner C. et al.[^4]</cite>
+your overall sleep time.<cite>(Gardiner C. et al.)[^4]</cite>
 
 [^1]:Nawrot P, Jordan S, Eastwood J, Rotstein J, Hugenholtz A, Feeley M. <br>
 	Effects of caffeine on human health. Food Addit Contam. 2003 Jan;<br>
