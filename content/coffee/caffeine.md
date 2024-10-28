@@ -9,8 +9,6 @@ tags = [
 categories = [
     "coffee",
 ]
-aliases = ["migrate-from-jekyl"]
-toc = true
 +++
 
 # Why is caffeine cool?

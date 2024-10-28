@@ -7,8 +7,7 @@ tags = [
     "biosketch",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "resume",
 ]
 aliases = ["migrate-from-jekyl"]
 toc = true
