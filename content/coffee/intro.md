@@ -35,9 +35,13 @@ Oh you didn't ask about all of that?<br>
 Well fresh coffee just straight up tastes better, and once you grind it,
 the CO<sub>2</sub> is released at an exponentially faster rate due to the 
 increase in surface area. <br>
+
+
 > But I like my coffee to taste the same every day<br>
 No you don't. Well maybe you do, and that's great! Try fresh dark roast coffee!
 It always tastes the same and it still is much better than stale dark roast.<br>
+
+
 > But I like milk/sugar/etc... <br>
 Sure, coffee is acidic. I think milk or alternatives are good additions to cut that 
 acidity and not mask the flavor. However, sugar is straight up not needed for 
