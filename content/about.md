@@ -24,3 +24,4 @@ You can check out my [biosketch](https://awilzman.github.io/publications/intro/)
 
 Or just my first-authored publications:
 1. [Can Plantar Pressure Predict Injury?](https://awilzman.github.io/publications/plantar_pressure/).
+2. [Osteogenic Stimulus Measures May Vary](https://www.ismni.org/jmni/accepted/JMNI_24M-07-115.pdf)
