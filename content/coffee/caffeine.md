@@ -27,7 +27,7 @@ are particularly sensitive to it, or are pregnant or nursing.<cite>(Nawrot P. et
 	
 Andrew Smith published a clear and concise breakdown of how caffeine effects human behavior.
 <cite>(Smith A.)[^2]</cite>
-Paraphrased these points are:
+Paraphrased, these points are:
 
 1. Caffeine will increase alertness and reduce fatigue in most humans.
 2. These effects will be sustained throughout easy, monotonous tasks.
