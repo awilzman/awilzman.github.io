@@ -2,7 +2,7 @@
 author = "Andrew"
 title = "Coffee Intro"
 date = "2024-10-28"
-description = "first post"
+description = "You should try fresh coffee"
 tags = [
     "coffee",
     "intro",
