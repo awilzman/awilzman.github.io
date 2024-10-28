@@ -5,7 +5,7 @@ date = "2024-10-15"
 aliases = ["about-me", "contact"]
 author = "Andrew Wilzman"
 +++
-{{< figure src="static/me.png" title="I like apple cider donuts." >}}
+{{< figure src="https://github.com/awilzman/awilzman.github.io/blob/main/static/me.png?raw=true" title="I like apple cider donuts." >}}
 <br>
 Hi, I'm Andrew Wilzman and I stay busy.
 <br>
