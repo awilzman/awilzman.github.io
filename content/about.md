@@ -5,6 +5,10 @@ date = "2024-10-15"
 aliases = ["about-me", "contact"]
 author = "Andrew Wilzman"
 +++
+{{< figure src="me.png" title="I like apple cider donuts." >}}
+<br>
+Hi, I'm Andrew Wilzman and I stay busy.
+<br>
 
 # Where am I now?
 
