@@ -6,12 +6,6 @@ description = "A Novel Brace Design for Ulnar Collateral Ligament Injury Prevent
 tags = [
     "publication",
 ]
-categories = [
-    "themes",
-    "syntax",
-]
-aliases = ["migrate-from-jekyl"]
-toc = true
 +++
 
 http://hdl.handle.net/10898/5122
