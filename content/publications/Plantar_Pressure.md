@@ -6,8 +6,9 @@ description = "Medical and Biomechanical Risk Factors for Incident Bone Stress I
 tags = [
     "publication",
 ]
+categories = [
+    "writing",
 ]
-aliases = ["migrate-from-jekyl"]
 +++
 
 Wilzman AR, Tenforde AS, Troy KL, Hunt K, Fogel N, Roche MD, Kraus E, Trikha R, Delp S, Fredericson M. 
