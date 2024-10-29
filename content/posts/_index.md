@@ -2,7 +2,7 @@
 aliases = ["blog"]
 title = "Blog"
 author = "Andrew Wilzman"
-description = "Blog Shmog"
+description = "Fear nothing."
 tags = ["index"]
 +++
 
