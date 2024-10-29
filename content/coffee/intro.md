@@ -26,7 +26,7 @@ provides a blanket between all of the amazing flavors in coffee and the air!
 Okay, well that might not be fully true, some of these flavors are lost to 
 more stable, less tasty versions of compounds that just end up that way over time. 
 Either way, as the CO<sub>2</sub> in the roasted coffee escapes, so does the 
-flavor. One way to know if there's a considerable about of CO<sub>2</sub> left
+flavor. One way to know if there's a considerable amount of CO<sub>2</sub> left
 in coffee is to see it brewing. Upon initial water contact, all of the CO<sub>2</sub>
 will rush out, causing what coffee-people call a 'bloom'. In espresso, this bloom is 
 actually pressurized and dissolved into the liquid. Once it touches air the

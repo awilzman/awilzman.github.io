@@ -1,7 +1,7 @@
 +++
 author = "Andrew"
 title = "Osteogenic Measures"
-date = "2024-10-15"
+date = "2024-10-28"
 description = "Biomechanics of a Drop Landing: Osteogenic Stimulus Measures May Vary"
 tags = [
     "publication",
