@@ -2,7 +2,7 @@
 author = "Andrew"
 title = "Mechanical Stimuli"
 date = "2024-10-15"
-description = "Effect of external and mechanical stimuli on human bone: a narrative review."
+description = "Effect of External Mechanical Stimuli on Human Bone: a narrative review"
 tags = [
     "publication",
 ]
@@ -12,11 +12,11 @@ categories = [
 +++
 
 
-Mancuso ME, Wilzman AR, Murdock KE, Troy KL. Effect of external and mechanical stimuli on human bone: a narrative review. 
+Mancuso ME, Wilzman AR, Murdock KE, Troy KL. Effect of External Mechanical Stimuli on Human Bone: a narrative review
 Progress in Biomedical Engineering. 2022. Jan;4(1):012006. 
 doi: 10.1088/2516-1091/ac41bc
 
-[Effect of external and mechanical stimuli on human bone: a narrative review](https://pubmed.ncbi.nlm.nih.gov/36310606/)
+[Effect of External Mechanical Stimuli on Human Bone: a narrative review](https://pubmed.ncbi.nlm.nih.gov/36310606/)
 
 This narrative review was authored by a PhD alumna from the MBL, Megan Mancuso. I earned my co-author spot by helping edit and write select sections.
 
