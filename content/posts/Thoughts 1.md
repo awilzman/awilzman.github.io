@@ -1,7 +1,7 @@
 +++
 author = "Andrew"
 title = "Thoughts 1"
-date = "2024-10-22"
+date = "2024-11-05"
 description = "not my first thought"
 tags = [
     "first",
