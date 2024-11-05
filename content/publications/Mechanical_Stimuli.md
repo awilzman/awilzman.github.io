@@ -12,7 +12,7 @@ categories = [
 +++
 
 
-Mancuso ME, Wilzman AR, Murdock KE, Troy KL. Effect of External Mechanical Stimuli on Human Bone: a narrative review
+Mancuso ME, Wilzman AR, Murdock KE, Troy KL. Effect of External Mechanical Stimuli on Human Bone: a narrative review<br>
 Progress in Biomedical Engineering. 2022. Jan;4(1):012006. 
 doi: 10.1088/2516-1091/ac41bc
 

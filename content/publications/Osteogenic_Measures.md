@@ -12,7 +12,7 @@ categories = [
 +++
 
 
-Wilzman AR, Wong DT, Troy KL. Biomechanics of a Drop Landing: Osteogenic Stimulus Measures May Vary. 
+Wilzman AR, Wong DT, Troy KL. Biomechanics of a Drop Landing: Osteogenic Stimulus Measures May Vary.<br> 
 J Musculoskelet Neuronal Interact. 2024.
 doi: in progress
 
