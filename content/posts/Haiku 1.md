@@ -1,6 +1,6 @@
 +++
 author = "Andrew"
-title = "Haiku 1"
+title = "Find yourself"
 date = "2024-10-28"
 description = "cool haiku"
 tags = [

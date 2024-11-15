@@ -1,6 +1,6 @@
 +++
 author = "Andrew"
-title = "Haiku 2"
+title = "Predictable"
 date = "2024-11-12"
 description = "Look up"
 tags = [
