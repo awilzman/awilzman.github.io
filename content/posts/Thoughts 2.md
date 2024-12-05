@@ -16,8 +16,8 @@ to process thoughts, facts, and assumptions to produce
 an appropriate plan for a path forward. Sometimes these 
 are as simple as syntax issues with code, and what was 
 once a problem that required intense study or even 
-expert advise is now usually solved well by Language 
-Learning Models (LLMs) that have been trained on the 
+expert advise is now usually solved well by Large
+Language Models (LLMs) that have been trained on the 
 required information. OpenAI came out with ChatGPT and 
 it proved to the world that methods in deep learning 
 are not to be taken lightly. The open-source, free version 
