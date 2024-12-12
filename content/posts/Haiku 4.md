@@ -2,13 +2,13 @@
 author = "Andrew"
 title = "Grace"
 date = "2024-12-12"
-description = "Power"
+description = "Concern yourself with what?"
 tags = [
     "haiku",
 ]
 +++
 
-Grace
+Power
 <!--more-->
 
 
