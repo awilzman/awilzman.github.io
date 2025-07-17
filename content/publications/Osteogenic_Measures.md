@@ -14,9 +14,9 @@ categories = [
 
 Wilzman AR, Wong DT, Troy KL. Biomechanics of a Drop Landing: Osteogenic Stimulus Measures May Vary.<br> 
 J Musculoskelet Neuronal Interact. 2024.
-doi: in progress
+doi: 10.22540/JMNI-25-001
 
-[Biomechanics of a Drop Landing: Osteogenic Stimulus Measures May Vary](https://www.ismni.org/jmni/accepted/JMNI_24M-07-115.pdf)
+[Biomechanics of a Drop Landing: Osteogenic Stimulus Measures May Vary](https://pubmed.ncbi.nlm.nih.gov/40024223/)
 
 This is my first publication that includes data I personally collected. I also devised and wrote the majority
 of this paper. My advisor, Karen, originally conceived of this project and handed it to me as a cool
