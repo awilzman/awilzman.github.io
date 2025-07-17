@@ -20,7 +20,7 @@ In tune with my last few posts, I took an interest in LLMs and started to
 see if I could fine tune my own models. I think there could be a great 
 application of personal assistance through fine-tuned LLMs that read through 
 a lot of your thoughts or concerns and can give you real advice on them 
-without privacy risks, assuming you use local information. The tuned models  
+without privacy risks, assuming you use local information. The tuned models 
 and all of its working memory will be stored and manipulated locally, so 
 you only need to worry about who can access the model files. I can imagine that 
 blockchain technology could be used to decentralize and secure access to 
