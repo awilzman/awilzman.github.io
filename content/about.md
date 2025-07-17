@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Do you already know me?"
-date = "2024-10-15"
+date = "2024-07-16"
 aliases = ["about-me", "contact"]
 author = "Andrew Wilzman"
 +++
