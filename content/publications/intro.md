@@ -1,7 +1,7 @@
 +++
 author = "Andrew R. Wilzman"
 title = "_biosketch"
-date = "2025-01-06"
+date = "2026-07-20"
 description = "biosketch"
 tags = [
     "biosketch",
@@ -16,7 +16,7 @@ toc = true
 # Education
 
 * Worcester Polytechnic Institute 2020-2025
-	* PhD Biomedical Engineering, expected in May 2025
+	* PhD Biomedical Engineering
 
 <br>
 
